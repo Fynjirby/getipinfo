@@ -1,0 +1,3 @@
+getipinfo
+=========
+cli utility to get ip info using ip-api.com api, ifconfig.me, grep, sed and curl
